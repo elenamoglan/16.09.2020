@@ -1,5 +1,5 @@
-print("INFORMAȚII PERSONALE\n")
-print("\tNume Prenumne: Moglan Elena")
+print('INFORMAȚII PERSONALE\n')
+print('\tNume Prenumne: Moglan Elena')
 print('\tAdresă: Suceava 7, MD-3129, mun. Bălți, Republica Moldova')
 print('\tTelefon: 37379007304 | Fax: 37323167394')
 print('\tE-mail: moglan.elena@gmail.com')
